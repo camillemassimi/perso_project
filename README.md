@@ -10,4 +10,7 @@
 - DataCamp : 
   - Where are the old left-handed people ?
     > **Library :** *Pandas / Matplotlib / Numpy*  
-    > **Topics :** Import and Cleaning Data / Data Manipulation / Data Visualization / Probability and Statistics (Bayesian statistics) 
+    > **Topics :** Import and Cleaning Data / Data Manipulation / Data Visualization / Probability and Statistics (Bayesian statistics)
+  - American Sign Language (ASL) Recognition with Deep Learning
+    > **Library :** *Tensorflow / Numpy / Matplotlib / Keras*  
+    > **Topics :** *Import and Cleaning Data / Data Manipulation / Data Visualization / Machine Learning*
