@@ -27,3 +27,4 @@
 - projet Annagrame
 - projet Influenceur ou influencé (projet auteurs/communaute)
 - projet tuto creer un fichier excel avec des couleurs en fonction des valeurs
+- projet fait pour le memoire avec la reconnaissance et localisation des symboles
