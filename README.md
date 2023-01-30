@@ -24,7 +24,10 @@
     > **Topics :** Une représentation ASCII de Wally et une image sont générées aléatoirement en entrée. Il faut trouver la position de Wally dans l'image en renvoyant le coin supérieur gauche de l'image càd (x, y). Si la représentation de Wally contient des espaces ils peuvent être représentés par n'importe quels autres caractères dans l'image (identique ou non).
 
 # A METTRE : 
-- projet Annagrame
-- projet Influenceur ou influencé (projet auteurs/communaute)
-- projet tuto creer un fichier excel avec des couleurs en fonction des valeurs
-- projet fait pour le memoire avec la reconnaissance et localisation des symboles
+- Projets : 
+  - projet Annagrame
+  - projet Influenceur ou influencé (projet auteurs/communaute)
+  - projet tuto creer un fichier excel avec des couleurs en fonction des valeurs
+  - projet fait pour le memoire avec la reconnaissance et localisation des symboles
+  
+ - Memoire : avec le code qui localise et analyse les images
