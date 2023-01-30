@@ -21,4 +21,4 @@
 - Coding Games : 
   - Where's Wally ? : 
     > **Library :** *re*  
-    > **Topics :** Il y a une représentation ASCII de Wally et une image (voir image pour exemple). Vous devez trouver la position de Wally dans l'image. Le coin supérieur gauche de l'image est (x, y) = (0, 0). Wally peut être masqué par d'autres caractères dans l'image si sa représentation contient des espaces. Tous les caractères non-espaces de Wally seront visibles dans l'image. En entrée, vous avez la taille de Wally et sa représentation ASCII, ainsi que la taille de l'image. En sortie, vous devez donner les coordonnées (x, y) du coin supérieur gauche de Wally dans l'image. Les dimensions de Wally et de l'image sont limitées à 100x100.
+    > **Topics :** Une représentation ASCII de Wally et une image sont générées aléatoirement en entrée. Il faut trouver la position de Wally dans l'image en renvoyant le coin supérieur gauche de l'image càd (x, y). Si la représentation de Wally contient des espaces ils peuvent être représentés par n'importe quels autres caractères dans l'image (identique ou non).
