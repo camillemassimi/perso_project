@@ -13,4 +13,4 @@
     > **Topics :** Import and Cleaning Data / Data Manipulation / Data Visualization / Probability and Statistics (Bayesian statistics)
   - American Sign Language (ASL) Recognition with Deep Learning
     > **Library :** *Tensorflow / Numpy / Matplotlib / Keras*  
-    > **Topics :** *Import and Cleaning Data / Data Manipulation / Data Visualization / Machine Learning*
+    > **Topics :** Import and Cleaning Data / Data Manipulation / Data Visualization / Machine Learning
