@@ -30,5 +30,6 @@
   - projet tuto creer un fichier excel avec des couleurs en fonction des valeurs
   - projet fait pour le memoire avec la reconnaissance et localisation des symboles
   - tous les trucs de traitement du signal (pour montrer les connaissances en Transfo de Fourier)
+  - projet serie temporelle (le rapport est tout fait !!!)
   
  - Memoire : avec le code qui localise et analyse les images
