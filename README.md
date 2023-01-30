@@ -14,3 +14,7 @@
   - American Sign Language (ASL) Recognition with Deep Learning
     > **Library :** *Tensorflow / Numpy / Matplotlib / Keras*  
     > **Topics :** Import and Cleaning Data / Data Manipulation / Data Visualization / Machine Learning
+- School : 
+  - Page Rank : 
+    > **Library :** *MRJob* 
+    > **Topics :** 
