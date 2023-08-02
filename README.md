@@ -23,13 +23,15 @@
     > **Library :** *re*  
     > **Topics :** Une représentation ASCII de Wally et une image sont générées aléatoirement en entrée. Il faut trouver la position de Wally dans l'image en renvoyant le coin supérieur gauche de l'image càd (x, y). Si la représentation de Wally contient des espaces ils peuvent être représentés par n'importe quels autres caractères dans l'image (identique ou non).
 
-# A METTRE : 
+# A VENIR : 
 - Projets : 
   - projet Annagrame
   - projet Influenceur ou influencé (projet auteurs/communaute)
-  - projet tuto creer un fichier excel avec des couleurs en fonction des valeurs
-  - projet fait pour le memoire avec la reconnaissance et localisation des symboles
-  - tous les trucs de traitement du signal (pour montrer les connaissances en Transfo de Fourier)
-  - projet serie temporelle (le rapport est tout fait !!!)
+  - projet reconnaissance et localisation des symboles
+  - projet traitement du signal
+  - projet serie temporelle
+- Certifications :
+  - Airflow
+  - Amazon Web Services
   
- - Memoire : avec le code qui localise et analyse les images
+
