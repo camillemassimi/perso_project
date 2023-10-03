@@ -7,7 +7,11 @@
     > **Library :** *re*
 
 # Projets : 
-- DataCamp : 
+- DataCamp :
+  - Dance Party Songs (XGBoost)
+    > **Task :** Create the perfect party playlist !  
+    > **Library :** *Pandas / Plotly / Seaborn / Matplotlib / Scikit-learn / Xgboost*  
+    > **Topics :** Import and Cleaning Data / Data Manipulation / Data Visualization / Machine Learning
   - Where are the old left-handed people ?
     > **Library :** *Pandas / Matplotlib / Numpy*  
     > **Topics :** Import and Cleaning Data / Data Manipulation / Data Visualization / Probability and Statistics (Bayesian statistics)
