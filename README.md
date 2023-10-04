@@ -28,7 +28,8 @@
     > **Topics :** Une représentation ASCII de Wally et une image sont générées aléatoirement en entrée. Il faut trouver la position de Wally dans l'image en renvoyant le coin supérieur gauche de l'image càd (x, y). Si la représentation de Wally contient des espaces ils peuvent être représentés par n'importe quels autres caractères dans l'image (identique ou non).
 
 # A VENIR : 
-- Projets : 
+- Projets :
+  - projet Train (carte pour afficher les destinations à moins de x heures de notre emplacement)
   - projet Annagrame
   - projet Influenceur ou influencé (projet auteurs/communaute)
   - projet reconnaissance et localisation des symboles
