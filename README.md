@@ -29,12 +29,12 @@
 
 # A VENIR : 
 - Projets :
-  - projet Train (carte pour afficher les destinations à moins de x heures de notre emplacement)
-  - projet Annagrame
-  - projet Influenceur ou influencé (projet auteurs/communaute)
-  - projet reconnaissance et localisation des symboles
-  - projet traitement du signal
-  - projet serie temporelle
+  - projet Train (carte pour afficher les destinations à moins de x heures de notre emplacement) (à faire)
+  - projet Annagrame (à mettre au propre)
+  - projet Influenceur ou influencé (projet auteurs/communaute) (à mettre au propre)
+  - projet reconnaissance et localisation des symboles (à mettre au propre)
+  - projet traitement du signal (à mettre au propre)
+  - projet serie temporelle (à mettre au propre)
 - Certifications :
   - Airflow
   - Amazon Web Services
