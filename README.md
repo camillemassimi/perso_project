@@ -1,5 +1,6 @@
 # C# :
 - Défi de code - Implémenter les règles du défi FizzBuzz
+- Défi de code - Écrire du code pour implémenter les règles du jeu
 
 # Certifications :
 - DataCamp : 
