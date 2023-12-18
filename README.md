@@ -1,7 +1,7 @@
 # C# :
-- Défi de code 1 - Implémenter les règles du défi FizzBuzz (DdC1)
-- Défi de code 2 - Écrire du code pour implémenter les règles du jeu (DdC2)
-- Projet de programmation 1 : écrire du code qui valide l’entrée d’un entier (DdP1)
+- Défi de code 1 - Implémenter les règles du défi FizzBuzz **(DdC1)**
+- Défi de code 2 - Écrire du code pour implémenter les règles du jeu **(DdC2)**
+- Projet de programmation 1 : écrire du code qui valide l’entrée d’un entier **(DdP1)**
 
 # Certifications :
 - DataCamp : 
