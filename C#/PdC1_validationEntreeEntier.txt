@@ -1,0 +1,41 @@
+/* 
+Projet de programmation 1 : écrire du code qui valide l’entrée d’un entier
+
+Voici les conditions que votre premier projet de programmation doit implémenter :
+- Votre solution doit inclure une itération do-while ou while.
+- Avant le bloc d’itération : votre solution doit utiliser une instruction Console.WriteLine() pour demander à l’utilisateur d’entrer une valeur entière comprise entre 5 et 10.
+- À l’intérieur du bloc d’itération :
+    - Votre solution doit utiliser une instruction Console.ReadLine() pour obtenir l’entrée de l’utilisateur.
+    - Votre solution doit vérifier que l’entrée est une représentation valide d’un entier.
+    - Si la valeur entière n’est pas comprise entre 5 et 10, votre code doit utiliser une instruction Console.WriteLine() pour inviter l’utilisateur à entrer une valeur entière comprise entre 5 et 10.
+    - Votre solution doit vérifier que la valeur entière est comprise entre 5 et 10 avant de quitter l’itération.
+- Sous (après) le bloc de code d’itération : votre solution doit utiliser une instruction Console.WriteLine() pour informer l’utilisateur que sa valeur d’entrée a été acceptée.
+*/
+
+Console.WriteLine("Donnez moi un entier entre 5 et 10 :");
+
+string? val;
+int valUser = 0;
+bool etatValUser = false;
+
+do
+{
+   val = Console.ReadLine();
+
+    etatValUser = int.TryParse(val, out valUser);
+
+   if (etatValUser == false)
+   {
+        Console.WriteLine($"Attention, ce n'est pas une valeur numérique comprise entre 5 et 10. Réessayez :");
+        continue;
+   } 
+
+   if ((valUser < 5) | (valUser > 10))
+   {
+        Console.WriteLine($"Attention, la valeur {valUser} n'est pas comprise entre 5 et 10. Réessayez :");
+        etatValUser = false;
+   } 
+
+} while (etatValUser != true);
+
+Console.WriteLine("Valeur acceptée, merci !");
