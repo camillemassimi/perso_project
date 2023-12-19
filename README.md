@@ -2,6 +2,7 @@
 - Défi de code 1 - Implémenter les règles du défi FizzBuzz **(DdC1)**
 - Défi de code 2 - Écrire du code pour implémenter les règles du jeu **(DdC2)**
 - Projet de programmation 1 - Écrire du code qui valide l’entrée d’un entier **(PdP1)**
+- Projet de programmation 2 - Écrire du code qui valide l’entrée d’une chaîne **(PdP2)**
 
 # Certifications :
 - DataCamp : 
