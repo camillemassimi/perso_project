@@ -7,7 +7,8 @@
 
   
 # 📊 Dashboard Power BI :
-- Dashboard_analyse_competences : analyse détaillée et visualisations des résultats d'autoévaluations de compétences au sein d'un pôle, visant à faciliter la gestion des formations
+- **Dashboard_analyse_competences :** analyse détaillée et visualisations des résultats d'autoévaluations de compétences au sein d'un pôle, visant à faciliter la gestion des formations
+- **Dashboard_suivi_creation_modification :** suivi quotidien des créations et modifications d'une donnée essentielle
 
 
 # 🐍 Python
