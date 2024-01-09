@@ -1,22 +1,24 @@
-# C# :
+# #️⃣ C# :
 - Défi de code 1 - Implémenter les règles du défi FizzBuzz **(DdC1)**
 - Défi de code 2 - Écrire du code pour implémenter les règles du jeu **(DdC2)**
 - Projet de programmation 1 - Écrire du code qui valide l’entrée d’un entier **(PdP1)**
 - Projet de programmation 2 - Écrire du code qui valide l’entrée d’une chaîne **(PdP2)**
 - Projet de programmation 3 – Écrire du code qui traite le contenu d’un tableau de chaînes **(PdP3)**
-# Dashboard Power BI :
+
+  
+# 📊 Dashboard Power BI :
 - Dashboard_analyse_competences : analyse détaillée et visualisations des résultats d'autoévaluations de compétences au sein d'un pôle, visant à faciliter la gestion des formations
 
 
-# Certifications :
+# 🐍 Python
+## Certifications :
 - DataCamp : 
   - ETL in Python :
     > **Library :** *requests / zipfile / SQLAlchemy / Xlsxwritter*
   - Introduction to Tableau
   - Regular Expression in Python
     > **Library :** *re*
-
-# Projets : 
+## Projets : 
 - DataCamp :
   - Dance Party Songs (XGBoost)
     > **Task :** Create the perfect party playlist !  
@@ -37,7 +39,7 @@
     > **Library :** *re*  
     > **Topics :** Une représentation ASCII de Wally et une image sont générées aléatoirement en entrée. Il faut trouver la position de Wally dans l'image en renvoyant le coin supérieur gauche de l'image càd (x, y). Si la représentation de Wally contient des espaces ils peuvent être représentés par n'importe quels autres caractères dans l'image (identique ou non).
 
-# A VENIR : 
+# ⏳ A VENIR : 
 - Projets :
   - projet Train (carte pour afficher les destinations à moins de x heures de notre emplacement) (à faire)
   - projet Annagrame (à mettre au propre)
