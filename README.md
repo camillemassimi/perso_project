@@ -4,6 +4,9 @@
 - Projet de programmation 1 - Écrire du code qui valide l’entrée d’un entier **(PdP1)**
 - Projet de programmation 2 - Écrire du code qui valide l’entrée d’une chaîne **(PdP2)**
 - Projet de programmation 3 – Écrire du code qui traite le contenu d’un tableau de chaînes **(PdP3)**
+# Dashboard Power BI :
+- Dashboard_analyse_competences : analyse détaillée et visualisations des résultats d'autoévaluations de compétences au sein d'un pôle, visant à faciliter la gestion des formations
+
 
 # Certifications :
 - DataCamp : 
