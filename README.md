@@ -1,12 +1,12 @@
 # #️⃣ C# :
-- learn.microsoft :
+- **learn.microsoft :**
   - Défi de code 1 - Implémenter les règles du défi FizzBuzz **(DdC1)**
   - Défi de code 2 - Écrire du code pour implémenter les règles du jeu **(DdC2)**
   - Projet de programmation 1 - Écrire du code qui valide l’entrée d’un entier **(PdP1)**
   - Projet de programmation 2 - Écrire du code qui valide l’entrée d’une chaîne **(PdP2)**
   - Projet de programmation 3 – Écrire du code qui traite le contenu d’un tableau de chaînes **(PdP3)**
 - Projets perso :
-  - (V1) AppTrainWithWeather : Développement d’une application WinForms en C# (sur Visual Studio Code). Cette application utilise l'API OpenWeather pour aider les utilisateurs à planifier leurs séances d'entraînement en fonction des conditions météorologiques. En fournissant simplement des informations telles que le lieu d'entraînement, la fréquence, le nombre d'heures et le créneau horaire, l'application affiche les prévisions météorologiques et recommande les meilleurs jours pour s’entraîner. (test unitaire à venir / amélioration à venir pour prochaines versions : ajout de plusieurs créneaux, plusieurs sports, villes...)
+  - **(V1) AppTrainWithWeather :** Développement d’une application WinForms en C# (sur Visual Studio Code). Cette application utilise l'API OpenWeather pour aider les utilisateurs à planifier leurs séances d'entraînement en fonction des conditions météorologiques. En fournissant simplement des informations telles que le lieu d'entraînement, la fréquence, le nombre d'heures et le créneau horaire, l'application affiche les prévisions météorologiques et recommande les meilleurs jours pour s’entraîner. (test unitaire à venir / amélioration à venir pour prochaines versions : ajout de plusieurs créneaux, plusieurs sports, villes...)
 
   
 # 📊 Dashboard Power BI :
@@ -16,14 +16,14 @@
 
 # 🐍 Python
 ## Certifications :
-- DataCamp : 
+- **DataCamp :** 
   - ETL in Python :
     > **Library :** *requests / zipfile / SQLAlchemy / Xlsxwritter*
   - Introduction to Tableau
   - Regular Expression in Python
     > **Library :** *re*
 ## Projets : 
-- DataCamp :
+- **DataCamp :**
   - Dance Party Songs (XGBoost)
     > **Task :** Create the perfect party playlist !  
     > **Library :** *Pandas / Plotly / Seaborn / Matplotlib / Scikit-learn / Xgboost*  
@@ -34,11 +34,11 @@
   - American Sign Language (ASL) Recognition with Deep Learning
     > **Library :** *Tensorflow / Numpy / Matplotlib / Keras*  
     > **Topics :** Import and Cleaning Data / Data Manipulation / Data Visualization / Machine Learning
-- School : 
+- **School :** 
   - Page Rank : 
     > **Library :** *MRJob*   
     > **Topics :** Implémentation de l'algorithme Page Rank (algorithme de classement utilisé pour évaluer l'importance d'une page Web en fonction du nombre et de la qualité des liens qui y mènent) en utilisant la bibliothèque MRJob. En utilisant MRJob, ce projet vise à offrir une implémentation scalable et distribuée de l'algorithme, permettant ainsi de traiter des grands ensembles de données de manière efficace.
-- Coding Games : 
+- **Coding Games :** 
   - Where's Wally ? : 
     > **Library :** *re*  
     > **Topics :** Une représentation ASCII de Wally et une image sont générées aléatoirement en entrée. Il faut trouver la position de Wally dans l'image en renvoyant le coin supérieur gauche de l'image càd (x, y). Si la représentation de Wally contient des espaces ils peuvent être représentés par n'importe quels autres caractères dans l'image (identique ou non).
