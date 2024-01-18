@@ -1,0 +1,17 @@
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\bin\Debug\net8.0-windows\AppTrainWithWeather.exe
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\bin\Debug\net8.0-windows\AppTrainWithWeather.deps.json
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\bin\Debug\net8.0-windows\AppTrainWithWeather.runtimeconfig.json
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\bin\Debug\net8.0-windows\AppTrainWithWeather.dll
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\bin\Debug\net8.0-windows\AppTrainWithWeather.pdb
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\AppTrainWithWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\AppTrainWithWeather.AssemblyInfoInputs.cache
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\AppTrainWithWeather.AssemblyInfo.cs
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\AppTrainWithWeather.csproj.CoreCompileInputs.cache
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\AppTrainWithWeather.dll
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\refint\AppTrainWithWeather.dll
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\AppTrainWithWeather.pdb
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\AppTrainWithWeather.genruntimeconfig.cache
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\ref\AppTrainWithWeather.dll
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\AppTrainWithWeather.csproj.AssemblyReference.cache
+C:\Users\7858JP\Desktop\PERSO\TrainWithWeather\AppTrainWithWeather\obj\Debug\net8.0-windows\AppTrainWithWeather.csproj.CopyComplete
