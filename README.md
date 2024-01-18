@@ -6,7 +6,7 @@
   - Projet de programmation 2 - Écrire du code qui valide l’entrée d’une chaîne **(PdP2)**
   - Projet de programmation 3 – Écrire du code qui traite le contenu d’un tableau de chaînes **(PdP3)**
 - Projets perso :
-  - **(V1) AppTrainWithWeather :** Développement d’une application WinForms en C# (sur Visual Studio Code). Cette application utilise l'API OpenWeather pour aider les utilisateurs à planifier leurs séances d'entraînement en fonction des conditions météorologiques. En fournissant simplement des informations telles que le lieu d'entraînement, la fréquence, le nombre d'heures et le créneau horaire, l'application affiche les prévisions météorologiques et recommande les meilleurs jours pour s’entraîner. (test unitaire à venir / amélioration à venir pour prochaines versions : ajout de plusieurs créneaux, plusieurs sports, villes...)
+  - **(V1) AppTrainWithWeather :** Développement d’une application WinForms en C# (sur Visual Studio Code). Cette application utilise l'API OpenWeather pour aider les utilisateurs à planifier leurs séances d'entraînement en fonction des conditions météorologiques. En fournissant simplement des informations telles que le lieu d'entraînement, la fréquence, le nombre d'heures et le créneau horaire, l'application affiche les prévisions météorologiques et recommande les meilleurs jours pour s’entraîner. (**tests unitaires** à venir / amélioration à venir pour prochaines versions : ajout de plusieurs créneaux, plusieurs sports, villes...)
 
   
 # 📊 Dashboard Power BI :
